@@ -1,0 +1,4926 @@
+[
+  {
+    "Post code;naam": ";",
+    "": ""
+  },
+  {
+    "Post code;naam": "1000;Elsene",
+    "": ""
+  },
+  {
+    "Post code;naam": "1000;Sint-Joost-ten-Node",
+    "": ""
+  },
+  {
+    "Post code;naam": "1000;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1005;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1006;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1007;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1008;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1009;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1011;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1012;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1020;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1030;Schaarbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1031;Schaarbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1033;Schaarbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1035;Schaarbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1040;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1040;Etterbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1041;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1043;Schaarbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1044;Schaarbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1046;Evere",
+    "": ""
+  },
+  {
+    "Post code;naam": "1047;Elsene",
+    "": ""
+  },
+  {
+    "Post code;naam": "1048;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1049;Evere",
+    "": ""
+  },
+  {
+    "Post code;naam": "1050;Sint-Gillis",
+    "": ""
+  },
+  {
+    "Post code;naam": "1050;Elsene",
+    "": ""
+  },
+  {
+    "Post code;naam": "1060;Sint-Gillis",
+    "": ""
+  },
+  {
+    "Post code;naam": "1070;Anderlecht",
+    "": ""
+  },
+  {
+    "Post code;naam": "1080;Sint-Jans-Molenbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1081;Koekelberg",
+    "": ""
+  },
+  {
+    "Post code;naam": "1082;Sint-Agatha-Berchem",
+    "": ""
+  },
+  {
+    "Post code;naam": "1083;Ganshoren",
+    "": ""
+  },
+  {
+    "Post code;naam": "1090;Jette",
+    "": ""
+  },
+  {
+    "Post code;naam": "1099;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1105;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1110;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1120;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1130;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1140;Evere",
+    "": ""
+  },
+  {
+    "Post code;naam": "1150;Sint-Pieters-Woluwe",
+    "": ""
+  },
+  {
+    "Post code;naam": "1160;Oudergem",
+    "": ""
+  },
+  {
+    "Post code;naam": "1170;Watermaal-Bosvoorde",
+    "": ""
+  },
+  {
+    "Post code;naam": "1180;Ukkel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1190;Vorst",
+    "": ""
+  },
+  {
+    "Post code;naam": "1200;Sint-Lambrechts-Woluwe",
+    "": ""
+  },
+  {
+    "Post code;naam": "1210;Sint-Joost-ten-Node",
+    "": ""
+  },
+  {
+    "Post code;naam": "1212;Sint-Joost-ten-Node",
+    "": ""
+  },
+  {
+    "Post code;naam": "1300;Wavre",
+    "": ""
+  },
+  {
+    "Post code;naam": "1300;Limal",
+    "": ""
+  },
+  {
+    "Post code;naam": "1301;Bierges",
+    "": ""
+  },
+  {
+    "Post code;naam": "1310;La Hulpe",
+    "": ""
+  },
+  {
+    "Post code;naam": "1315;Incourt",
+    "": ""
+  },
+  {
+    "Post code;naam": "1320;Beauvechain",
+    "": ""
+  },
+  {
+    "Post code;naam": "1325;Chaumont-Gistoux",
+    "": ""
+  },
+  {
+    "Post code;naam": "1330;Rixensart",
+    "": ""
+  },
+  {
+    "Post code;naam": "1331;Rosières",
+    "": ""
+  },
+  {
+    "Post code;naam": "1332;Genval",
+    "": ""
+  },
+  {
+    "Post code;naam": "1340;Ottignies",
+    "": ""
+  },
+  {
+    "Post code;naam": "1341;Céroux-Mousty",
+    "": ""
+  },
+  {
+    "Post code;naam": "1342;Limelette",
+    "": ""
+  },
+  {
+    "Post code;naam": "1348;Mont-Saint-Guibert",
+    "": ""
+  },
+  {
+    "Post code;naam": "1348;Ottignies",
+    "": ""
+  },
+  {
+    "Post code;naam": "1350;Jauche",
+    "": ""
+  },
+  {
+    "Post code;naam": "1357;Neerheylissem",
+    "": ""
+  },
+  {
+    "Post code;naam": "1360;Thorembais-Saint-Trond",
+    "": ""
+  },
+  {
+    "Post code;naam": "1367;Geest-Gérompont-Petit-Rosière",
+    "": ""
+  },
+  {
+    "Post code;naam": "1370;Jodoigne",
+    "": ""
+  },
+  {
+    "Post code;naam": "1380;Lasne-Chapelle-Saint-Lambert",
+    "": ""
+  },
+  {
+    "Post code;naam": "1390;Archennes",
+    "": ""
+  },
+  {
+    "Post code;naam": "1400;Nivelles",
+    "": ""
+  },
+  {
+    "Post code;naam": "1401;Baulers",
+    "": ""
+  },
+  {
+    "Post code;naam": "1402;Thines",
+    "": ""
+  },
+  {
+    "Post code;naam": "1404;Bornival",
+    "": ""
+  },
+  {
+    "Post code;naam": "1410;Waterloo",
+    "": ""
+  },
+  {
+    "Post code;naam": "1420;Braine-l'Alleud",
+    "": ""
+  },
+  {
+    "Post code;naam": "1421;Ophain-Bois-Seigneur-Isaac",
+    "": ""
+  },
+  {
+    "Post code;naam": "1428;Lillois-Witterzée",
+    "": ""
+  },
+  {
+    "Post code;naam": "1430;Rebecq-Rognon",
+    "": ""
+  },
+  {
+    "Post code;naam": "1435;Mont-Saint-Guibert",
+    "": ""
+  },
+  {
+    "Post code;naam": "1440;Braine-le-Château",
+    "": ""
+  },
+  {
+    "Post code;naam": "1450;Saint-Géry",
+    "": ""
+  },
+  {
+    "Post code;naam": "1457;Walhain-Saint-Paul",
+    "": ""
+  },
+  {
+    "Post code;naam": "1460;Ittre",
+    "": ""
+  },
+  {
+    "Post code;naam": "1461;Haut-Ittre",
+    "": ""
+  },
+  {
+    "Post code;naam": "1470;Baisy-Thy",
+    "": ""
+  },
+  {
+    "Post code;naam": "1470;Genappe",
+    "": ""
+  },
+  {
+    "Post code;naam": "1471;Loupoigne",
+    "": ""
+  },
+  {
+    "Post code;naam": "1472;Vieux-Genappe",
+    "": ""
+  },
+  {
+    "Post code;naam": "1473;Glabais",
+    "": ""
+  },
+  {
+    "Post code;naam": "1474;Ways",
+    "": ""
+  },
+  {
+    "Post code;naam": "1476;Houtain-le-Val",
+    "": ""
+  },
+  {
+    "Post code;naam": "1480;Tubize",
+    "": ""
+  },
+  {
+    "Post code;naam": "1490;Court-Saint-Étienne",
+    "": ""
+  },
+  {
+    "Post code;naam": "1495;Marbais",
+    "": ""
+  },
+  {
+    "Post code;naam": "1500;Halle",
+    "": ""
+  },
+  {
+    "Post code;naam": "1501;Buizingen",
+    "": ""
+  },
+  {
+    "Post code;naam": "1502;Lembeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1540;Herne",
+    "": ""
+  },
+  {
+    "Post code;naam": "1541;Sint-Pieters-Kapelle",
+    "": ""
+  },
+  {
+    "Post code;naam": "1547;Bever",
+    "": ""
+  },
+  {
+    "Post code;naam": "1560;Hoeilaart",
+    "": ""
+  },
+  {
+    "Post code;naam": "1570;Tollembeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1600;Sint-Pieters-Leeuw",
+    "": ""
+  },
+  {
+    "Post code;naam": "1601;Ruisbroek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1602;Vlezenbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1620;Drogenbos",
+    "": ""
+  },
+  {
+    "Post code;naam": "1630;Linkebeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1640;Sint-Genesius-Rode",
+    "": ""
+  },
+  {
+    "Post code;naam": "1650;Beersel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1651;Lot",
+    "": ""
+  },
+  {
+    "Post code;naam": "1652;Alsemberg",
+    "": ""
+  },
+  {
+    "Post code;naam": "1653;Dworp",
+    "": ""
+  },
+  {
+    "Post code;naam": "1654;Huizingen",
+    "": ""
+  },
+  {
+    "Post code;naam": "1670;Pepingen",
+    "": ""
+  },
+  {
+    "Post code;naam": "1671;Elingen",
+    "": ""
+  },
+  {
+    "Post code;naam": "1673;Beert",
+    "": ""
+  },
+  {
+    "Post code;naam": "1674;Bellingen",
+    "": ""
+  },
+  {
+    "Post code;naam": "1700;Dilbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1701;Dilbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1701;Itterbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1702;Groot-Bijgaarden",
+    "": ""
+  },
+  {
+    "Post code;naam": "1703;Schepdaal",
+    "": ""
+  },
+  {
+    "Post code;naam": "1730;Asse",
+    "": ""
+  },
+  {
+    "Post code;naam": "1731;Relegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "1733;Asse",
+    "": ""
+  },
+  {
+    "Post code;naam": "1740;Ternat",
+    "": ""
+  },
+  {
+    "Post code;naam": "1741;Wambeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1742;Sint-Katherina-Lombeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1745;Opwijk",
+    "": ""
+  },
+  {
+    "Post code;naam": "1750;Sint-Martens-Lennik",
+    "": ""
+  },
+  {
+    "Post code;naam": "1755;Leerbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1760;Pamel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1761;Borchtlombeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1770;Liedekerke",
+    "": ""
+  },
+  {
+    "Post code;naam": "1780;Wemmel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1785;Merchtem",
+    "": ""
+  },
+  {
+    "Post code;naam": "1790;Hekelgem",
+    "": ""
+  },
+  {
+    "Post code;naam": "1800;Vilvoorde",
+    "": ""
+  },
+  {
+    "Post code;naam": "1804;Vilvoorde",
+    "": ""
+  },
+  {
+    "Post code;naam": "1820;Steenokkerzeel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1830;Machelen",
+    "": ""
+  },
+  {
+    "Post code;naam": "1831;Diegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "1840;Londerzeel",
+    "": ""
+  },
+  {
+    "Post code;naam": "1850;Grimbergen",
+    "": ""
+  },
+  {
+    "Post code;naam": "1851;Humbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1852;Beigem",
+    "": ""
+  },
+  {
+    "Post code;naam": "1853;Strombeek-Bever",
+    "": ""
+  },
+  {
+    "Post code;naam": "1860;Meise",
+    "": ""
+  },
+  {
+    "Post code;naam": "1861;Wolvertem",
+    "": ""
+  },
+  {
+    "Post code;naam": "1880;Kapelle-op-den-Bos",
+    "": ""
+  },
+  {
+    "Post code;naam": "1910;Kampenhout",
+    "": ""
+  },
+  {
+    "Post code;naam": "1930;Zaventem",
+    "": ""
+  },
+  {
+    "Post code;naam": "1931;Diegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "1932;Sint-Stevens-Woluwe",
+    "": ""
+  },
+  {
+    "Post code;naam": "1933;Sterrebeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "1934;Diegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "1935;Zaventem",
+    "": ""
+  },
+  {
+    "Post code;naam": "1950;Kraainem",
+    "": ""
+  },
+  {
+    "Post code;naam": "1970;Wezembeek-Oppem",
+    "": ""
+  },
+  {
+    "Post code;naam": "1980;Eppegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "1980;Zemst",
+    "": ""
+  },
+  {
+    "Post code;naam": "1981;Hofstade",
+    "": ""
+  },
+  {
+    "Post code;naam": "1982;Elewijt",
+    "": ""
+  },
+  {
+    "Post code;naam": "2000;Antwerpen",
+    "": ""
+  },
+  {
+    "Post code;naam": "2018;Antwerpen",
+    "": ""
+  },
+  {
+    "Post code;naam": "2020;Antwerpen",
+    "": ""
+  },
+  {
+    "Post code;naam": "2030;Antwerpen",
+    "": ""
+  },
+  {
+    "Post code;naam": "2040;Berendrecht-Zandvliet-Lillo",
+    "": ""
+  },
+  {
+    "Post code;naam": "2050;Antwerpen",
+    "": ""
+  },
+  {
+    "Post code;naam": "2060;Antwerpen",
+    "": ""
+  },
+  {
+    "Post code;naam": "2070;Zwijndrecht",
+    "": ""
+  },
+  {
+    "Post code;naam": "2099;Antwerpen",
+    "": ""
+  },
+  {
+    "Post code;naam": "2100;Deurne",
+    "": ""
+  },
+  {
+    "Post code;naam": "2110;Wijnegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "2140;Borgerhout",
+    "": ""
+  },
+  {
+    "Post code;naam": "2150;Borsbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "2160;Wommelgem",
+    "": ""
+  },
+  {
+    "Post code;naam": "2170;Merksem",
+    "": ""
+  },
+  {
+    "Post code;naam": "2180;Ekeren",
+    "": ""
+  },
+  {
+    "Post code;naam": "2200;Herentals",
+    "": ""
+  },
+  {
+    "Post code;naam": "2220;Heist-op-den-Berg",
+    "": ""
+  },
+  {
+    "Post code;naam": "2221;Booischot",
+    "": ""
+  },
+  {
+    "Post code;naam": "2222;Itegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "2223;Schriek",
+    "": ""
+  },
+  {
+    "Post code;naam": "2230;Herselt",
+    "": ""
+  },
+  {
+    "Post code;naam": "2235;Houtvenne",
+    "": ""
+  },
+  {
+    "Post code;naam": "2240;Zandhoven",
+    "": ""
+  },
+  {
+    "Post code;naam": "2242;Pulderbos",
+    "": ""
+  },
+  {
+    "Post code;naam": "2243;Pulle",
+    "": ""
+  },
+  {
+    "Post code;naam": "2250;Olen",
+    "": ""
+  },
+  {
+    "Post code;naam": "2260;Tongerlo",
+    "": ""
+  },
+  {
+    "Post code;naam": "2270;Herenthout",
+    "": ""
+  },
+  {
+    "Post code;naam": "2275;Lille",
+    "": ""
+  },
+  {
+    "Post code;naam": "2280;Grobbendonk",
+    "": ""
+  },
+  {
+    "Post code;naam": "2288;Bouwel",
+    "": ""
+  },
+  {
+    "Post code;naam": "2290;Vorselaar",
+    "": ""
+  },
+  {
+    "Post code;naam": "2300;Turnhout",
+    "": ""
+  },
+  {
+    "Post code;naam": "2310;Rijkevorsel",
+    "": ""
+  },
+  {
+    "Post code;naam": "2320;Hoogstraten",
+    "": ""
+  },
+  {
+    "Post code;naam": "2321;Meer",
+    "": ""
+  },
+  {
+    "Post code;naam": "2322;",
+    "": ""
+  },
+  {
+    "Post code;naam": "2323;Wortel",
+    "": ""
+  },
+  {
+    "Post code;naam": "2328;Meerle",
+    "": ""
+  },
+  {
+    "Post code;naam": "2330;Merksplas",
+    "": ""
+  },
+  {
+    "Post code;naam": "2340;Beerse",
+    "": ""
+  },
+  {
+    "Post code;naam": "2350;Vosselaar",
+    "": ""
+  },
+  {
+    "Post code;naam": "2360;Oud-Turnhout",
+    "": ""
+  },
+  {
+    "Post code;naam": "2370;Arendonk",
+    "": ""
+  },
+  {
+    "Post code;naam": "2380;Ravels",
+    "": ""
+  },
+  {
+    "Post code;naam": "2381;Weelde",
+    "": ""
+  },
+  {
+    "Post code;naam": "2382;Poppel",
+    "": ""
+  },
+  {
+    "Post code;naam": "2387;Baarle-Hertog",
+    "": ""
+  },
+  {
+    "Post code;naam": "2390;Oostmalle",
+    "": ""
+  },
+  {
+    "Post code;naam": "2400;Dessel",
+    "": ""
+  },
+  {
+    "Post code;naam": "2430;Vorst",
+    "": ""
+  },
+  {
+    "Post code;naam": "2431;Veerle",
+    "": ""
+  },
+  {
+    "Post code;naam": "2440;Geel",
+    "": ""
+  },
+  {
+    "Post code;naam": "2450;Meerhout",
+    "": ""
+  },
+  {
+    "Post code;naam": "2460;Lichtaart",
+    "": ""
+  },
+  {
+    "Post code;naam": "2470;Retie",
+    "": ""
+  },
+  {
+    "Post code;naam": "2480;Dessel",
+    "": ""
+  },
+  {
+    "Post code;naam": "2490;Balen",
+    "": ""
+  },
+  {
+    "Post code;naam": "2491;Olmen",
+    "": ""
+  },
+  {
+    "Post code;naam": "2500;Lier",
+    "": ""
+  },
+  {
+    "Post code;naam": "2520;Broechem",
+    "": ""
+  },
+  {
+    "Post code;naam": "2530;Boechout",
+    "": ""
+  },
+  {
+    "Post code;naam": "2531;Vremde",
+    "": ""
+  },
+  {
+    "Post code;naam": "2540;Hove",
+    "": ""
+  },
+  {
+    "Post code;naam": "2547;Lint",
+    "": ""
+  },
+  {
+    "Post code;naam": "2550;Kontich",
+    "": ""
+  },
+  {
+    "Post code;naam": "2560;Kessel",
+    "": ""
+  },
+  {
+    "Post code;naam": "2570;Duffel",
+    "": ""
+  },
+  {
+    "Post code;naam": "2580;Putte",
+    "": ""
+  },
+  {
+    "Post code;naam": "2590;Berlaar",
+    "": ""
+  },
+  {
+    "Post code;naam": "2600;Berchem",
+    "": ""
+  },
+  {
+    "Post code;naam": "2610;Wilrijk",
+    "": ""
+  },
+  {
+    "Post code;naam": "2620;Hemiksem",
+    "": ""
+  },
+  {
+    "Post code;naam": "2627;Schelle",
+    "": ""
+  },
+  {
+    "Post code;naam": "2630;Aartselaar",
+    "": ""
+  },
+  {
+    "Post code;naam": "2640;Mortsel",
+    "": ""
+  },
+  {
+    "Post code;naam": "2650;Edegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "2660;Hoboken",
+    "": ""
+  },
+  {
+    "Post code;naam": "2800;Mechelen",
+    "": ""
+  },
+  {
+    "Post code;naam": "2801;Heffen",
+    "": ""
+  },
+  {
+    "Post code;naam": "2811;Leest",
+    "": ""
+  },
+  {
+    "Post code;naam": "2812;Muizen",
+    "": ""
+  },
+  {
+    "Post code;naam": "2820;Bonheiden",
+    "": ""
+  },
+  {
+    "Post code;naam": "2830;Willebroek",
+    "": ""
+  },
+  {
+    "Post code;naam": "2840;Reet",
+    "": ""
+  },
+  {
+    "Post code;naam": "2845;Niel",
+    "": ""
+  },
+  {
+    "Post code;naam": "2850;Boom",
+    "": ""
+  },
+  {
+    "Post code;naam": "2860;Sint-Katelijne-Waver",
+    "": ""
+  },
+  {
+    "Post code;naam": "2861;Onze-Lieve-Vrouw-Waver",
+    "": ""
+  },
+  {
+    "Post code;naam": "2870;Puurs",
+    "": ""
+  },
+  {
+    "Post code;naam": "2880;Bornem",
+    "": ""
+  },
+  {
+    "Post code;naam": "2890;Oppuurs",
+    "": ""
+  },
+  {
+    "Post code;naam": "2900;Schoten",
+    "": ""
+  },
+  {
+    "Post code;naam": "2910;Essen",
+    "": ""
+  },
+  {
+    "Post code;naam": "2920;Kalmthout",
+    "": ""
+  },
+  {
+    "Post code;naam": "2930;Brasschaat",
+    "": ""
+  },
+  {
+    "Post code;naam": "2940;Stabroek",
+    "": ""
+  },
+  {
+    "Post code;naam": "2950;Kapellen",
+    "": ""
+  },
+  {
+    "Post code;naam": "2960;Brecht",
+    "": ""
+  },
+  {
+    "Post code;naam": "2970;Schilde",
+    "": ""
+  },
+  {
+    "Post code;naam": "2980;Zoersel",
+    "": ""
+  },
+  {
+    "Post code;naam": "2990;Wuustwezel",
+    "": ""
+  },
+  {
+    "Post code;naam": "3000;Heverlee",
+    "": ""
+  },
+  {
+    "Post code;naam": "3000;Leuven",
+    "": ""
+  },
+  {
+    "Post code;naam": "3001;Heverlee",
+    "": ""
+  },
+  {
+    "Post code;naam": "3010;Kessel-Lo",
+    "": ""
+  },
+  {
+    "Post code;naam": "3012;Wilsele",
+    "": ""
+  },
+  {
+    "Post code;naam": "3018;Wilsele",
+    "": ""
+  },
+  {
+    "Post code;naam": "3020;Winksele",
+    "": ""
+  },
+  {
+    "Post code;naam": "3040;Neerijse",
+    "": ""
+  },
+  {
+    "Post code;naam": "3050;Oud-Heverlee",
+    "": ""
+  },
+  {
+    "Post code;naam": "3051;Sint-Joris-Weert",
+    "": ""
+  },
+  {
+    "Post code;naam": "3052;Blanden",
+    "": ""
+  },
+  {
+    "Post code;naam": "3053;Haasrode",
+    "": ""
+  },
+  {
+    "Post code;naam": "3054;Vaalbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "3060;Bertem",
+    "": ""
+  },
+  {
+    "Post code;naam": "3061;Leefdaal",
+    "": ""
+  },
+  {
+    "Post code;naam": "3070;Kortenberg",
+    "": ""
+  },
+  {
+    "Post code;naam": "3071;Erps-Kwerps",
+    "": ""
+  },
+  {
+    "Post code;naam": "3078;Everberg",
+    "": ""
+  },
+  {
+    "Post code;naam": "3080;Tervuren",
+    "": ""
+  },
+  {
+    "Post code;naam": "3090;Overijse",
+    "": ""
+  },
+  {
+    "Post code;naam": "3110;Rotselaar",
+    "": ""
+  },
+  {
+    "Post code;naam": "3111;Wezemaal",
+    "": ""
+  },
+  {
+    "Post code;naam": "3118;Werchter",
+    "": ""
+  },
+  {
+    "Post code;naam": "3120;Tremelo",
+    "": ""
+  },
+  {
+    "Post code;naam": "3128;Baal",
+    "": ""
+  },
+  {
+    "Post code;naam": "3130;Betekom",
+    "": ""
+  },
+  {
+    "Post code;naam": "3140;Keerbergen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3150;Haacht",
+    "": ""
+  },
+  {
+    "Post code;naam": "3190;Boortmeerbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "3191;Hever",
+    "": ""
+  },
+  {
+    "Post code;naam": "3200;Aarschot",
+    "": ""
+  },
+  {
+    "Post code;naam": "3201;Langdorp",
+    "": ""
+  },
+  {
+    "Post code;naam": "3202;Rillaar",
+    "": ""
+  },
+  {
+    "Post code;naam": "3210;Lubbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "3211;Binkom",
+    "": ""
+  },
+  {
+    "Post code;naam": "3212;Pellenberg",
+    "": ""
+  },
+  {
+    "Post code;naam": "3220;Kortrijk-Dutsel",
+    "": ""
+  },
+  {
+    "Post code;naam": "3221;Nieuwrode",
+    "": ""
+  },
+  {
+    "Post code;naam": "3270;Scherpenheuvel",
+    "": ""
+  },
+  {
+    "Post code;naam": "3271;Zichem",
+    "": ""
+  },
+  {
+    "Post code;naam": "3272;Testelt",
+    "": ""
+  },
+  {
+    "Post code;naam": "3290;Schaffen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3293;Kaggevinne",
+    "": ""
+  },
+  {
+    "Post code;naam": "3294;Molenstede",
+    "": ""
+  },
+  {
+    "Post code;naam": "3300;Tienen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3320;Hoegaarden",
+    "": ""
+  },
+  {
+    "Post code;naam": "3321;Outgaarden",
+    "": ""
+  },
+  {
+    "Post code;naam": "3350;Wommersom",
+    "": ""
+  },
+  {
+    "Post code;naam": "3360;Bierbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "3370;Vertrijk",
+    "": ""
+  },
+  {
+    "Post code;naam": "3380;Glabbeek-Zuurbemde",
+    "": ""
+  },
+  {
+    "Post code;naam": "3381;Kapellen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3384;Attenrode",
+    "": ""
+  },
+  {
+    "Post code;naam": "3390;Tielt",
+    "": ""
+  },
+  {
+    "Post code;naam": "3391;Meensel-Kiezegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "3400;Neerwinden",
+    "": ""
+  },
+  {
+    "Post code;naam": "3401;Walshoutem",
+    "": ""
+  },
+  {
+    "Post code;naam": "3404;Attenhoven",
+    "": ""
+  },
+  {
+    "Post code;naam": "3440;Zoutleeuw",
+    "": ""
+  },
+  {
+    "Post code;naam": "3450;Geetbets",
+    "": ""
+  },
+  {
+    "Post code;naam": "3454;Rummen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3460;Bekkevoort",
+    "": ""
+  },
+  {
+    "Post code;naam": "3461;Molenbeek-Wersbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "3470;Kortenaken",
+    "": ""
+  },
+  {
+    "Post code;naam": "3471;Hoeleden",
+    "": ""
+  },
+  {
+    "Post code;naam": "3472;Kersbeek-Miskom",
+    "": ""
+  },
+  {
+    "Post code;naam": "3473;Waanrode",
+    "": ""
+  },
+  {
+    "Post code;naam": "3500;Hasselt",
+    "": ""
+  },
+  {
+    "Post code;naam": "3501;Wimmertingen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3510;Kermt",
+    "": ""
+  },
+  {
+    "Post code;naam": "3511;Kuringen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3512;Stevoort",
+    "": ""
+  },
+  {
+    "Post code;naam": "3520;Zonhoven",
+    "": ""
+  },
+  {
+    "Post code;naam": "3530;Houthalen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3540;Herk-de-Stad",
+    "": ""
+  },
+  {
+    "Post code;naam": "3545;Halen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3550;Zolder",
+    "": ""
+  },
+  {
+    "Post code;naam": "3560;Lummen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3570;Alken",
+    "": ""
+  },
+  {
+    "Post code;naam": "3580;Beringen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3581;Beverlo",
+    "": ""
+  },
+  {
+    "Post code;naam": "3582;Koersel",
+    "": ""
+  },
+  {
+    "Post code;naam": "3583;Paal",
+    "": ""
+  },
+  {
+    "Post code;naam": "3590;Diepenbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "3600;Genk",
+    "": ""
+  },
+  {
+    "Post code;naam": "3620;Lanaken",
+    "": ""
+  },
+  {
+    "Post code;naam": "3621;Rekem",
+    "": ""
+  },
+  {
+    "Post code;naam": "3630;Mechelen-aan-de-Maas",
+    "": ""
+  },
+  {
+    "Post code;naam": "3631;Uikhoven",
+    "": ""
+  },
+  {
+    "Post code;naam": "3640;Molenbeersel",
+    "": ""
+  },
+  {
+    "Post code;naam": "3650;Dilsen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3660;Opglabbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "3665;As",
+    "": ""
+  },
+  {
+    "Post code;naam": "3668;Niel-bij-As",
+    "": ""
+  },
+  {
+    "Post code;naam": "3670;Gruitrode",
+    "": ""
+  },
+  {
+    "Post code;naam": "3680;Neeroeteren",
+    "": ""
+  },
+  {
+    "Post code;naam": "3690;Zutendaal",
+    "": ""
+  },
+  {
+    "Post code;naam": "3700;Tongeren",
+    "": ""
+  },
+  {
+    "Post code;naam": "3717;Herstappe",
+    "": ""
+  },
+  {
+    "Post code;naam": "3720;Kortessem",
+    "": ""
+  },
+  {
+    "Post code;naam": "3721;Vliermaalroot",
+    "": ""
+  },
+  {
+    "Post code;naam": "3722;Wintershoven",
+    "": ""
+  },
+  {
+    "Post code;naam": "3723;Guigoven",
+    "": ""
+  },
+  {
+    "Post code;naam": "3724;Vliermaal",
+    "": ""
+  },
+  {
+    "Post code;naam": "3730;Hoeselt",
+    "": ""
+  },
+  {
+    "Post code;naam": "3732;Schalkhoven",
+    "": ""
+  },
+  {
+    "Post code;naam": "3740;Bilzen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3742;Martenslinde",
+    "": ""
+  },
+  {
+    "Post code;naam": "3746;Waltwilder",
+    "": ""
+  },
+  {
+    "Post code;naam": "3770;Riemst",
+    "": ""
+  },
+  {
+    "Post code;naam": "3790;Sint-Martens-Voeren",
+    "": ""
+  },
+  {
+    "Post code;naam": "3790;Moelingen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3791;Remersdaal",
+    "": ""
+  },
+  {
+    "Post code;naam": "3792;Sint-Pieters-Voeren",
+    "": ""
+  },
+  {
+    "Post code;naam": "3793;Teuven",
+    "": ""
+  },
+  {
+    "Post code;naam": "3798;'s-Gravenvoeren",
+    "": ""
+  },
+  {
+    "Post code;naam": "3800;Brustem",
+    "": ""
+  },
+  {
+    "Post code;naam": "3803;Duras",
+    "": ""
+  },
+  {
+    "Post code;naam": "3806;Velm",
+    "": ""
+  },
+  {
+    "Post code;naam": "3830;Wellen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3831;Herten",
+    "": ""
+  },
+  {
+    "Post code;naam": "3832;Ulbeek",
+    "": ""
+  },
+  {
+    "Post code;naam": "3840;Borgloon",
+    "": ""
+  },
+  {
+    "Post code;naam": "3850;Nieuwerkerken",
+    "": ""
+  },
+  {
+    "Post code;naam": "3870;Heers",
+    "": ""
+  },
+  {
+    "Post code;naam": "3890;Borlo",
+    "": ""
+  },
+  {
+    "Post code;naam": "3891;Buvingen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3900;Overpelt",
+    "": ""
+  },
+  {
+    "Post code;naam": "3910;Neerpelt",
+    "": ""
+  },
+  {
+    "Post code;naam": "3920;Lommel",
+    "": ""
+  },
+  {
+    "Post code;naam": "3930;Achel",
+    "": ""
+  },
+  {
+    "Post code;naam": "3940;Hechtel",
+    "": ""
+  },
+  {
+    "Post code;naam": "3941;Eksel",
+    "": ""
+  },
+  {
+    "Post code;naam": "3945;Kwaadmechelen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3950;Bocholt",
+    "": ""
+  },
+  {
+    "Post code;naam": "3960;Bree",
+    "": ""
+  },
+  {
+    "Post code;naam": "3970;Leopoldsburg",
+    "": ""
+  },
+  {
+    "Post code;naam": "3971;Heppen",
+    "": ""
+  },
+  {
+    "Post code;naam": "3980;Tessenderlo",
+    "": ""
+  },
+  {
+    "Post code;naam": "3990;Peer",
+    "": ""
+  },
+  {
+    "Post code;naam": "4000;Liège",
+    "": ""
+  },
+  {
+    "Post code;naam": "4000;Angleur",
+    "": ""
+  },
+  {
+    "Post code;naam": "4020;Jupille-sur-Meuse",
+    "": ""
+  },
+  {
+    "Post code;naam": "4030;Grivegnée",
+    "": ""
+  },
+  {
+    "Post code;naam": "4031;Angleur",
+    "": ""
+  },
+  {
+    "Post code;naam": "4032;Chênée",
+    "": ""
+  },
+  {
+    "Post code;naam": "4040;Herstal",
+    "": ""
+  },
+  {
+    "Post code;naam": "4041;Milmort",
+    "": ""
+  },
+  {
+    "Post code;naam": "4042;Liers",
+    "": ""
+  },
+  {
+    "Post code;naam": "4050;Chaudfontaine",
+    "": ""
+  },
+  {
+    "Post code;naam": "4051;Vaux-sous-Chèvremont",
+    "": ""
+  },
+  {
+    "Post code;naam": "4052;Beaufays",
+    "": ""
+  },
+  {
+    "Post code;naam": "4053;Embourg",
+    "": ""
+  },
+  {
+    "Post code;naam": "4099;Awans",
+    "": ""
+  },
+  {
+    "Post code;naam": "4100;Seraing",
+    "": ""
+  },
+  {
+    "Post code;naam": "4101;Jemeppe",
+    "": ""
+  },
+  {
+    "Post code;naam": "4102;Ougrée",
+    "": ""
+  },
+  {
+    "Post code;naam": "4120;Rotheux-Rimière",
+    "": ""
+  },
+  {
+    "Post code;naam": "4121;Neuville-en-Condroz",
+    "": ""
+  },
+  {
+    "Post code;naam": "4122;Plainevaux",
+    "": ""
+  },
+  {
+    "Post code;naam": "4130;Esneux",
+    "": ""
+  },
+  {
+    "Post code;naam": "4140;Sprimont",
+    "": ""
+  },
+  {
+    "Post code;naam": "4141;Louveigné",
+    "": ""
+  },
+  {
+    "Post code;naam": "4160;Anthisnes",
+    "": ""
+  },
+  {
+    "Post code;naam": "4161;Villers-aux-Tours",
+    "": ""
+  },
+  {
+    "Post code;naam": "4162;Hody",
+    "": ""
+  },
+  {
+    "Post code;naam": "4163;Tavier",
+    "": ""
+  },
+  {
+    "Post code;naam": "4170;Comblain-au-Pont",
+    "": ""
+  },
+  {
+    "Post code;naam": "4171;Poulseur",
+    "": ""
+  },
+  {
+    "Post code;naam": "4180;Hamoir",
+    "": ""
+  },
+  {
+    "Post code;naam": "4181;Filot",
+    "": ""
+  },
+  {
+    "Post code;naam": "4190;Ferrières",
+    "": ""
+  },
+  {
+    "Post code;naam": "4210;Lamontzée",
+    "": ""
+  },
+  {
+    "Post code;naam": "4217;Héron",
+    "": ""
+  },
+  {
+    "Post code;naam": "4218;Couthuin",
+    "": ""
+  },
+  {
+    "Post code;naam": "4219;Meeffe",
+    "": ""
+  },
+  {
+    "Post code;naam": "4250;Geer",
+    "": ""
+  },
+  {
+    "Post code;naam": "4252;Omal",
+    "": ""
+  },
+  {
+    "Post code;naam": "4253;Darion",
+    "": ""
+  },
+  {
+    "Post code;naam": "4254;Ligney",
+    "": ""
+  },
+  {
+    "Post code;naam": "4257;Corswarem",
+    "": ""
+  },
+  {
+    "Post code;naam": "4260;Ville-en-Hesbaye",
+    "": ""
+  },
+  {
+    "Post code;naam": "4260;Fallais",
+    "": ""
+  },
+  {
+    "Post code;naam": "4261;Latinne",
+    "": ""
+  },
+  {
+    "Post code;naam": "4263;Tourinne",
+    "": ""
+  },
+  {
+    "Post code;naam": "4280;Hannut",
+    "": ""
+  },
+  {
+    "Post code;naam": "4287;Lincent",
+    "": ""
+  },
+  {
+    "Post code;naam": "4300;Waremme",
+    "": ""
+  },
+  {
+    "Post code;naam": "4317;Celles",
+    "": ""
+  },
+  {
+    "Post code;naam": "4340;Villers-l'Évêque",
+    "": ""
+  },
+  {
+    "Post code;naam": "4342;Hognoul",
+    "": ""
+  },
+  {
+    "Post code;naam": "4347;Fexhe-le-Haut-Clocher",
+    "": ""
+  },
+  {
+    "Post code;naam": "4350;Lamine",
+    "": ""
+  },
+  {
+    "Post code;naam": "4351;Hodeige",
+    "": ""
+  },
+  {
+    "Post code;naam": "4357;Donceel",
+    "": ""
+  },
+  {
+    "Post code;naam": "4360;Lens-sur-Geer",
+    "": ""
+  },
+  {
+    "Post code;naam": "4367;Crisnée",
+    "": ""
+  },
+  {
+    "Post code;naam": "4400;Chokier",
+    "": ""
+  },
+  {
+    "Post code;naam": "4420;Saint-Nicolas",
+    "": ""
+  },
+  {
+    "Post code;naam": "4430;Ans",
+    "": ""
+  },
+  {
+    "Post code;naam": "4431;Loncin",
+    "": ""
+  },
+  {
+    "Post code;naam": "4432;Alleur",
+    "": ""
+  },
+  {
+    "Post code;naam": "4450;Villers-Saint-Siméon",
+    "": ""
+  },
+  {
+    "Post code;naam": "4451;Voroux-lez-Liers",
+    "": ""
+  },
+  {
+    "Post code;naam": "4452;Wihogne",
+    "": ""
+  },
+  {
+    "Post code;naam": "4453;Villers-Saint-Siméon",
+    "": ""
+  },
+  {
+    "Post code;naam": "4458;Fexhe-Slins",
+    "": ""
+  },
+  {
+    "Post code;naam": "4460;Velroux",
+    "": ""
+  },
+  {
+    "Post code;naam": "4470;Saint-Georges-sur-Meuse",
+    "": ""
+  },
+  {
+    "Post code;naam": "4480;Clermont-sous-Huy",
+    "": ""
+  },
+  {
+    "Post code;naam": "4500;Ben-Ahin",
+    "": ""
+  },
+  {
+    "Post code;naam": "4520;Moha",
+    "": ""
+  },
+  {
+    "Post code;naam": "4530;Warnant-Dreye",
+    "": ""
+  },
+  {
+    "Post code;naam": "4537;Verlaine",
+    "": ""
+  },
+  {
+    "Post code;naam": "4540;Amay",
+    "": ""
+  },
+  {
+    "Post code;naam": "4550;Yernée-Fraineux",
+    "": ""
+  },
+  {
+    "Post code;naam": "4557;Soheit-Tinlot",
+    "": ""
+  },
+  {
+    "Post code;naam": "4560;Clavier",
+    "": ""
+  },
+  {
+    "Post code;naam": "4570;Marchin",
+    "": ""
+  },
+  {
+    "Post code;naam": "4577;Vierset-Barse",
+    "": ""
+  },
+  {
+    "Post code;naam": "4590;Ouffet",
+    "": ""
+  },
+  {
+    "Post code;naam": "4600;Visé",
+    "": ""
+  },
+  {
+    "Post code;naam": "4601;Argenteau",
+    "": ""
+  },
+  {
+    "Post code;naam": "4602;Cheratte",
+    "": ""
+  },
+  {
+    "Post code;naam": "4606;Saint-André",
+    "": ""
+  },
+  {
+    "Post code;naam": "4607;Bombaye",
+    "": ""
+  },
+  {
+    "Post code;naam": "4608;Neufchâteau",
+    "": ""
+  },
+  {
+    "Post code;naam": "4610;Queue-du-Bois",
+    "": ""
+  },
+  {
+    "Post code;naam": "4620;Fléron",
+    "": ""
+  },
+  {
+    "Post code;naam": "4621;Retinne",
+    "": ""
+  },
+  {
+    "Post code;naam": "4623;Magnée",
+    "": ""
+  },
+  {
+    "Post code;naam": "4624;Romsée",
+    "": ""
+  },
+  {
+    "Post code;naam": "4630;Évegnée-Tignée",
+    "": ""
+  },
+  {
+    "Post code;naam": "4630;Soumagne",
+    "": ""
+  },
+  {
+    "Post code;naam": "4631;Évegnée-Tignée",
+    "": ""
+  },
+  {
+    "Post code;naam": "4632;Cerexhe-Heuseux",
+    "": ""
+  },
+  {
+    "Post code;naam": "4633;Melen",
+    "": ""
+  },
+  {
+    "Post code;naam": "4650;Julémont",
+    "": ""
+  },
+  {
+    "Post code;naam": "4650;Herve",
+    "": ""
+  },
+  {
+    "Post code;naam": "4650;Grand-Rechain",
+    "": ""
+  },
+  {
+    "Post code;naam": "4650;Chaineux",
+    "": ""
+  },
+  {
+    "Post code;naam": "4651;Herve",
+    "": ""
+  },
+  {
+    "Post code;naam": "4652;Xhendelesse",
+    "": ""
+  },
+  {
+    "Post code;naam": "4653;Bolland",
+    "": ""
+  },
+  {
+    "Post code;naam": "4654;Charneux",
+    "": ""
+  },
+  {
+    "Post code;naam": "4670;Mortier",
+    "": ""
+  },
+  {
+    "Post code;naam": "4671;Saive",
+    "": ""
+  },
+  {
+    "Post code;naam": "4672;Saint-Remy",
+    "": ""
+  },
+  {
+    "Post code;naam": "4680;Hermée",
+    "": ""
+  },
+  {
+    "Post code;naam": "4681;Hermalle-sous-Argenteau",
+    "": ""
+  },
+  {
+    "Post code;naam": "4682;Heure-le-Romain",
+    "": ""
+  },
+  {
+    "Post code;naam": "4683;Vivegnis",
+    "": ""
+  },
+  {
+    "Post code;naam": "4684;Haccourt",
+    "": ""
+  },
+  {
+    "Post code;naam": "4690;Bassenge",
+    "": ""
+  },
+  {
+    "Post code;naam": "4700;Eupen",
+    "": ""
+  },
+  {
+    "Post code;naam": "4701;Kettenis",
+    "": ""
+  },
+  {
+    "Post code;naam": "4710;Lontzen",
+    "": ""
+  },
+  {
+    "Post code;naam": "4711;Walhorn",
+    "": ""
+  },
+  {
+    "Post code;naam": "4720;Kelmis",
+    "": ""
+  },
+  {
+    "Post code;naam": "4721;Kelmis",
+    "": ""
+  },
+  {
+    "Post code;naam": "4728;Hergenrath",
+    "": ""
+  },
+  {
+    "Post code;naam": "4730;Hauset",
+    "": ""
+  },
+  {
+    "Post code;naam": "4730;Raeren",
+    "": ""
+  },
+  {
+    "Post code;naam": "4731;Eynatten",
+    "": ""
+  },
+  {
+    "Post code;naam": "4750;Elsenborn",
+    "": ""
+  },
+  {
+    "Post code;naam": "4760;Manderfeld",
+    "": ""
+  },
+  {
+    "Post code;naam": "4761;Rocherath",
+    "": ""
+  },
+  {
+    "Post code;naam": "4770;Amel",
+    "": ""
+  },
+  {
+    "Post code;naam": "4771;Heppenbach",
+    "": ""
+  },
+  {
+    "Post code;naam": "4780;Sankt Vith",
+    "": ""
+  },
+  {
+    "Post code;naam": "4780;Recht",
+    "": ""
+  },
+  {
+    "Post code;naam": "4782;Schönberg",
+    "": ""
+  },
+  {
+    "Post code;naam": "4783;Lommersweiler",
+    "": ""
+  },
+  {
+    "Post code;naam": "4784;Crombach",
+    "": ""
+  },
+  {
+    "Post code;naam": "4790;Reuland",
+    "": ""
+  },
+  {
+    "Post code;naam": "4791;Thommen",
+    "": ""
+  },
+  {
+    "Post code;naam": "4800;Heusy",
+    "": ""
+  },
+  {
+    "Post code;naam": "4800;Verviers",
+    "": ""
+  },
+  {
+    "Post code;naam": "4801;Stembert",
+    "": ""
+  },
+  {
+    "Post code;naam": "4802;Heusy",
+    "": ""
+  },
+  {
+    "Post code;naam": "4820;Dison",
+    "": ""
+  },
+  {
+    "Post code;naam": "4821;Andrimont",
+    "": ""
+  },
+  {
+    "Post code;naam": "4830;Limbourg",
+    "": ""
+  },
+  {
+    "Post code;naam": "4831;Bilstain",
+    "": ""
+  },
+  {
+    "Post code;naam": "4834;Goé",
+    "": ""
+  },
+  {
+    "Post code;naam": "4837;Membach",
+    "": ""
+  },
+  {
+    "Post code;naam": "4840;Welkenraedt",
+    "": ""
+  },
+  {
+    "Post code;naam": "4841;Henri-Chapelle",
+    "": ""
+  },
+  {
+    "Post code;naam": "4845;Sart",
+    "": ""
+  },
+  {
+    "Post code;naam": "4850;Montzen",
+    "": ""
+  },
+  {
+    "Post code;naam": "4851;Gemmenich",
+    "": ""
+  },
+  {
+    "Post code;naam": "4852;Hombourg",
+    "": ""
+  },
+  {
+    "Post code;naam": "4860;Pepinster",
+    "": ""
+  },
+  {
+    "Post code;naam": "4861;Soiron",
+    "": ""
+  },
+  {
+    "Post code;naam": "4870;Olne",
+    "": ""
+  },
+  {
+    "Post code;naam": "4877;Olne",
+    "": ""
+  },
+  {
+    "Post code;naam": "4880;Aubel",
+    "": ""
+  },
+  {
+    "Post code;naam": "4890;Clermont",
+    "": ""
+  },
+  {
+    "Post code;naam": "4900;Spa",
+    "": ""
+  },
+  {
+    "Post code;naam": "4910;La Reid",
+    "": ""
+  },
+  {
+    "Post code;naam": "4920;Aywaille",
+    "": ""
+  },
+  {
+    "Post code;naam": "4950;Robertville",
+    "": ""
+  },
+  {
+    "Post code;naam": "4960;Bevercé",
+    "": ""
+  },
+  {
+    "Post code;naam": "4970;Stavelot",
+    "": ""
+  },
+  {
+    "Post code;naam": "4980;Wanne",
+    "": ""
+  },
+  {
+    "Post code;naam": "4983;Basse-Bodeux",
+    "": ""
+  },
+  {
+    "Post code;naam": "4987;Stoumont",
+    "": ""
+  },
+  {
+    "Post code;naam": "4990;Lierneux",
+    "": ""
+  },
+  {
+    "Post code;naam": "5000;Namur",
+    "": ""
+  },
+  {
+    "Post code;naam": "5001;Belgrade",
+    "": ""
+  },
+  {
+    "Post code;naam": "5002;Saint-Servais",
+    "": ""
+  },
+  {
+    "Post code;naam": "5003;Saint-Marc",
+    "": ""
+  },
+  {
+    "Post code;naam": "5004;Bouge",
+    "": ""
+  },
+  {
+    "Post code;naam": "5010;Namur",
+    "": ""
+  },
+  {
+    "Post code;naam": "5012;Namur",
+    "": ""
+  },
+  {
+    "Post code;naam": "5020;Vedrin",
+    "": ""
+  },
+  {
+    "Post code;naam": "5020;Flawinne",
+    "": ""
+  },
+  {
+    "Post code;naam": "5021;Boninne",
+    "": ""
+  },
+  {
+    "Post code;naam": "5022;Cognelée",
+    "": ""
+  },
+  {
+    "Post code;naam": "5024;Marche-les-Dames",
+    "": ""
+  },
+  {
+    "Post code;naam": "5030;Gembloux",
+    "": ""
+  },
+  {
+    "Post code;naam": "5031;Grand-Leez",
+    "": ""
+  },
+  {
+    "Post code;naam": "5032;Bossière",
+    "": ""
+  },
+  {
+    "Post code;naam": "5060;Auvelais",
+    "": ""
+  },
+  {
+    "Post code;naam": "5070;Fosses-la-Ville",
+    "": ""
+  },
+  {
+    "Post code;naam": "5080;Émines",
+    "": ""
+  },
+  {
+    "Post code;naam": "5081;Saint-Denis",
+    "": ""
+  },
+  {
+    "Post code;naam": "5100;Dave",
+    "": ""
+  },
+  {
+    "Post code;naam": "5101;Loyers",
+    "": ""
+  },
+  {
+    "Post code;naam": "5140;Sombreffe",
+    "": ""
+  },
+  {
+    "Post code;naam": "5150;Floreffe",
+    "": ""
+  },
+  {
+    "Post code;naam": "5170;Bois-de-Villers",
+    "": ""
+  },
+  {
+    "Post code;naam": "5190;Moustier",
+    "": ""
+  },
+  {
+    "Post code;naam": "5300;Bonneville",
+    "": ""
+  },
+  {
+    "Post code;naam": "5310;Éghezée",
+    "": ""
+  },
+  {
+    "Post code;naam": "5330;Assesse",
+    "": ""
+  },
+  {
+    "Post code;naam": "5330;Maillen",
+    "": ""
+  },
+  {
+    "Post code;naam": "5332;Crupet",
+    "": ""
+  },
+  {
+    "Post code;naam": "5333;Sorinne-la-Longue",
+    "": ""
+  },
+  {
+    "Post code;naam": "5334;Florée",
+    "": ""
+  },
+  {
+    "Post code;naam": "5336;Courrière",
+    "": ""
+  },
+  {
+    "Post code;naam": "5340;Gesves",
+    "": ""
+  },
+  {
+    "Post code;naam": "5350;Haillot",
+    "": ""
+  },
+  {
+    "Post code;naam": "5351;Haillot",
+    "": ""
+  },
+  {
+    "Post code;naam": "5352;Perwez",
+    "": ""
+  },
+  {
+    "Post code;naam": "5353;Goesnes",
+    "": ""
+  },
+  {
+    "Post code;naam": "5354;Jallet",
+    "": ""
+  },
+  {
+    "Post code;naam": "5360;Natoye",
+    "": ""
+  },
+  {
+    "Post code;naam": "5360;Hamois",
+    "": ""
+  },
+  {
+    "Post code;naam": "5361;Scy",
+    "": ""
+  },
+  {
+    "Post code;naam": "5362;Achet",
+    "": ""
+  },
+  {
+    "Post code;naam": "5363;Emptinne",
+    "": ""
+  },
+  {
+    "Post code;naam": "5364;Schaltin",
+    "": ""
+  },
+  {
+    "Post code;naam": "5370;Jeneffe",
+    "": ""
+  },
+  {
+    "Post code;naam": "5372;Méan",
+    "": ""
+  },
+  {
+    "Post code;naam": "5374;Maffe",
+    "": ""
+  },
+  {
+    "Post code;naam": "5376;Miécret",
+    "": ""
+  },
+  {
+    "Post code;naam": "5377;Heure",
+    "": ""
+  },
+  {
+    "Post code;naam": "5380;Noville-les-Bois",
+    "": ""
+  },
+  {
+    "Post code;naam": "5500;Anseremme",
+    "": ""
+  },
+  {
+    "Post code;naam": "5501;Lisogne",
+    "": ""
+  },
+  {
+    "Post code;naam": "5502;Thynes",
+    "": ""
+  },
+  {
+    "Post code;naam": "5503;Sorinnes",
+    "": ""
+  },
+  {
+    "Post code;naam": "5504;Foy-Notre-Dame",
+    "": ""
+  },
+  {
+    "Post code;naam": "5520;Anthée",
+    "": ""
+  },
+  {
+    "Post code;naam": "5520;Onhaye",
+    "": ""
+  },
+  {
+    "Post code;naam": "5521;Serville",
+    "": ""
+  },
+  {
+    "Post code;naam": "5522;Falaën",
+    "": ""
+  },
+  {
+    "Post code;naam": "5523;Sommière",
+    "": ""
+  },
+  {
+    "Post code;naam": "5524;Gerin",
+    "": ""
+  },
+  {
+    "Post code;naam": "5530;Durnal",
+    "": ""
+  },
+  {
+    "Post code;naam": "5537;Bioul",
+    "": ""
+  },
+  {
+    "Post code;naam": "5540;Hastière-par-delà",
+    "": ""
+  },
+  {
+    "Post code;naam": "5541;Hastière-par-delà",
+    "": ""
+  },
+  {
+    "Post code;naam": "5542;Blaimont",
+    "": ""
+  },
+  {
+    "Post code;naam": "5543;Heer",
+    "": ""
+  },
+  {
+    "Post code;naam": "5544;Agimont",
+    "": ""
+  },
+  {
+    "Post code;naam": "5550;Sugny",
+    "": ""
+  },
+  {
+    "Post code;naam": "5555;Monceau-en-Ardenne",
+    "": ""
+  },
+  {
+    "Post code;naam": "5560;Mesnil-Église",
+    "": ""
+  },
+  {
+    "Post code;naam": "5560;Ciergnon",
+    "": ""
+  },
+  {
+    "Post code;naam": "5561;Celles",
+    "": ""
+  },
+  {
+    "Post code;naam": "5562;Custinne",
+    "": ""
+  },
+  {
+    "Post code;naam": "5563;Hour",
+    "": ""
+  },
+  {
+    "Post code;naam": "5564;Wanlin",
+    "": ""
+  },
+  {
+    "Post code;naam": "5570;Javingue",
+    "": ""
+  },
+  {
+    "Post code;naam": "5570;Honnay",
+    "": ""
+  },
+  {
+    "Post code;naam": "5571;Wiesme",
+    "": ""
+  },
+  {
+    "Post code;naam": "5572;Focant",
+    "": ""
+  },
+  {
+    "Post code;naam": "5573;Martouzin-Neuville",
+    "": ""
+  },
+  {
+    "Post code;naam": "5574;Pondrôme",
+    "": ""
+  },
+  {
+    "Post code;naam": "5575;Rienne",
+    "": ""
+  },
+  {
+    "Post code;naam": "5576;Froidfontaine",
+    "": ""
+  },
+  {
+    "Post code;naam": "5580;Éprave",
+    "": ""
+  },
+  {
+    "Post code;naam": "5589;Jemelle",
+    "": ""
+  },
+  {
+    "Post code;naam": "5590;Leignon",
+    "": ""
+  },
+  {
+    "Post code;naam": "5600;Sautour",
+    "": ""
+  },
+  {
+    "Post code;naam": "5620;Rosée",
+    "": ""
+  },
+  {
+    "Post code;naam": "5621;Hanzinelle",
+    "": ""
+  },
+  {
+    "Post code;naam": "5630;Soumoy",
+    "": ""
+  },
+  {
+    "Post code;naam": "5640;Mettet",
+    "": ""
+  },
+  {
+    "Post code;naam": "5641;Furnaux",
+    "": ""
+  },
+  {
+    "Post code;naam": "5644;Ermeton-sur-Biert",
+    "": ""
+  },
+  {
+    "Post code;naam": "5646;Stave",
+    "": ""
+  },
+  {
+    "Post code;naam": "5650;Walcourt",
+    "": ""
+  },
+  {
+    "Post code;naam": "5651;Gourdinne",
+    "": ""
+  },
+  {
+    "Post code;naam": "5660;Couvin",
+    "": ""
+  },
+  {
+    "Post code;naam": "5670;Olloy-sur-Viroin",
+    "": ""
+  },
+  {
+    "Post code;naam": "5680;Romerée",
+    "": ""
+  },
+  {
+    "Post code;naam": "6000;Charleroi",
+    "": ""
+  },
+  {
+    "Post code;naam": "6001;Marcinelle",
+    "": ""
+  },
+  {
+    "Post code;naam": "6010;Couillet",
+    "": ""
+  },
+  {
+    "Post code;naam": "6020;Dampremy",
+    "": ""
+  },
+  {
+    "Post code;naam": "6030;Marchienne-au-Pont",
+    "": ""
+  },
+  {
+    "Post code;naam": "6030;Goutroux",
+    "": ""
+  },
+  {
+    "Post code;naam": "6031;Monceau-sur-Sambre",
+    "": ""
+  },
+  {
+    "Post code;naam": "6032;Mont-sur-Marchienne",
+    "": ""
+  },
+  {
+    "Post code;naam": "6040;Jumet",
+    "": ""
+  },
+  {
+    "Post code;naam": "6041;Gosselies",
+    "": ""
+  },
+  {
+    "Post code;naam": "6042;Lodelinsart",
+    "": ""
+  },
+  {
+    "Post code;naam": "6043;Ransart",
+    "": ""
+  },
+  {
+    "Post code;naam": "6044;Roux",
+    "": ""
+  },
+  {
+    "Post code;naam": "6060;Gilly",
+    "": ""
+  },
+  {
+    "Post code;naam": "6061;Montignies-sur-Sambre",
+    "": ""
+  },
+  {
+    "Post code;naam": "6075;Fleurus",
+    "": ""
+  },
+  {
+    "Post code;naam": "6099;Fleurus",
+    "": ""
+  },
+  {
+    "Post code;naam": "6110;Montignies-le-Tilleul",
+    "": ""
+  },
+  {
+    "Post code;naam": "6111;Landelies",
+    "": ""
+  },
+  {
+    "Post code;naam": "612;Brussel",
+    "": ""
+  },
+  {
+    "Post code;naam": "6120;Ham-sur-Heure",
+    "": ""
+  },
+  {
+    "Post code;naam": "6140;Fontaine-l'Évêque",
+    "": ""
+  },
+  {
+    "Post code;naam": "6141;Forchies-la-Marche",
+    "": ""
+  },
+  {
+    "Post code;naam": "6142;Leernes",
+    "": ""
+  },
+  {
+    "Post code;naam": "6150;Anderlues",
+    "": ""
+  },
+  {
+    "Post code;naam": "6180;Courcelles",
+    "": ""
+  },
+  {
+    "Post code;naam": "6181;Gouy-lez-Piéton",
+    "": ""
+  },
+  {
+    "Post code;naam": "6182;Souvret",
+    "": ""
+  },
+  {
+    "Post code;naam": "6183;Trazegnies",
+    "": ""
+  },
+  {
+    "Post code;naam": "6200;Bouffioulx",
+    "": ""
+  },
+  {
+    "Post code;naam": "6210;Wayaux",
+    "": ""
+  },
+  {
+    "Post code;naam": "6210;Frasnes-lez-Gosselies",
+    "": ""
+  },
+  {
+    "Post code;naam": "6211;Mellet",
+    "": ""
+  },
+  {
+    "Post code;naam": "6220;Fleurus",
+    "": ""
+  },
+  {
+    "Post code;naam": "6221;Saint-Amand",
+    "": ""
+  },
+  {
+    "Post code;naam": "6222;Brye",
+    "": ""
+  },
+  {
+    "Post code;naam": "6223;Wagnelée",
+    "": ""
+  },
+  {
+    "Post code;naam": "6224;Wanfercée-Baulet",
+    "": ""
+  },
+  {
+    "Post code;naam": "6230;Luttre",
+    "": ""
+  },
+  {
+    "Post code;naam": "6238;Liberchies",
+    "": ""
+  },
+  {
+    "Post code;naam": "6240;Farciennes",
+    "": ""
+  },
+  {
+    "Post code;naam": "6250;Aiseau",
+    "": ""
+  },
+  {
+    "Post code;naam": "6280;Acoz",
+    "": ""
+  },
+  {
+    "Post code;naam": "6440;Froid-Chapelle",
+    "": ""
+  },
+  {
+    "Post code;naam": "6441;Erpion",
+    "": ""
+  },
+  {
+    "Post code;naam": "6460;Robechies",
+    "": ""
+  },
+  {
+    "Post code;naam": "6461;Virelles",
+    "": ""
+  },
+  {
+    "Post code;naam": "6462;Vaulx",
+    "": ""
+  },
+  {
+    "Post code;naam": "6463;Lompret",
+    "": ""
+  },
+  {
+    "Post code;naam": "6464;Bourlers",
+    "": ""
+  },
+  {
+    "Post code;naam": "6470;Sautin",
+    "": ""
+  },
+  {
+    "Post code;naam": "6500;Solre-Saint-Géry",
+    "": ""
+  },
+  {
+    "Post code;naam": "6511;Strée",
+    "": ""
+  },
+  {
+    "Post code;naam": "6530;Thuin",
+    "": ""
+  },
+  {
+    "Post code;naam": "6530;Leers-et-Fosteau",
+    "": ""
+  },
+  {
+    "Post code;naam": "6531;Biesme-sous-Thuin",
+    "": ""
+  },
+  {
+    "Post code;naam": "6532;Ragnies",
+    "": ""
+  },
+  {
+    "Post code;naam": "6533;Biercée",
+    "": ""
+  },
+  {
+    "Post code;naam": "6534;Gozée",
+    "": ""
+  },
+  {
+    "Post code;naam": "6536;Thuillies",
+    "": ""
+  },
+  {
+    "Post code;naam": "6540;Lobbes",
+    "": ""
+  },
+  {
+    "Post code;naam": "6542;Sars-la-Buissière",
+    "": ""
+  },
+  {
+    "Post code;naam": "6543;Bienne-lez-Happart",
+    "": ""
+  },
+  {
+    "Post code;naam": "6560;Solre-sur-Sambre",
+    "": ""
+  },
+  {
+    "Post code;naam": "6567;Labuissière",
+    "": ""
+  },
+  {
+    "Post code;naam": "6590;Momignies",
+    "": ""
+  },
+  {
+    "Post code;naam": "6591;Macon",
+    "": ""
+  },
+  {
+    "Post code;naam": "6592;Monceau-Imbrechies",
+    "": ""
+  },
+  {
+    "Post code;naam": "6593;Macquenoise",
+    "": ""
+  },
+  {
+    "Post code;naam": "6594;Beauwelz",
+    "": ""
+  },
+  {
+    "Post code;naam": "6596;Forge-Philippe",
+    "": ""
+  },
+  {
+    "Post code;naam": "6600;Wardin",
+    "": ""
+  },
+  {
+    "Post code;naam": "6630;Martelange",
+    "": ""
+  },
+  {
+    "Post code;naam": "6637;Hollange",
+    "": ""
+  },
+  {
+    "Post code;naam": "6640;Nives",
+    "": ""
+  },
+  {
+    "Post code;naam": "6660;Houffalize",
+    "": ""
+  },
+  {
+    "Post code;naam": "6660;Nadrin",
+    "": ""
+  },
+  {
+    "Post code;naam": "6661;Mont",
+    "": ""
+  },
+  {
+    "Post code;naam": "6662;Tavigny",
+    "": ""
+  },
+  {
+    "Post code;naam": "6663;Mabompré",
+    "": ""
+  },
+  {
+    "Post code;naam": "6666;Wibrin",
+    "": ""
+  },
+  {
+    "Post code;naam": "6670;Limerlé",
+    "": ""
+  },
+  {
+    "Post code;naam": "6671;Bovigny",
+    "": ""
+  },
+  {
+    "Post code;naam": "6672;Beho",
+    "": ""
+  },
+  {
+    "Post code;naam": "6673;Cherain",
+    "": ""
+  },
+  {
+    "Post code;naam": "6674;Montleban",
+    "": ""
+  },
+  {
+    "Post code;naam": "6680;Tillet",
+    "": ""
+  },
+  {
+    "Post code;naam": "6681;Lavacherie",
+    "": ""
+  },
+  {
+    "Post code;naam": "6686;Flamierge",
+    "": ""
+  },
+  {
+    "Post code;naam": "6687;Bertogne",
+    "": ""
+  },
+  {
+    "Post code;naam": "6688;Longchamps",
+    "": ""
+  },
+  {
+    "Post code;naam": "6690;Bihain",
+    "": ""
+  },
+  {
+    "Post code;naam": "6690;Petit-Thier",
+    "": ""
+  },
+  {
+    "Post code;naam": "6692;Petit-Thier",
+    "": ""
+  },
+  {
+    "Post code;naam": "6698;Grand-Halleux",
+    "": ""
+  },
+  {
+    "Post code;naam": "6700;Heinsch",
+    "": ""
+  },
+  {
+    "Post code;naam": "6704;Guirsch",
+    "": ""
+  },
+  {
+    "Post code;naam": "6706;Autelbas",
+    "": ""
+  },
+  {
+    "Post code;naam": "6717;Attert",
+    "": ""
+  },
+  {
+    "Post code;naam": "6720;Habay-la-Neuve",
+    "": ""
+  },
+  {
+    "Post code;naam": "6721;Anlier",
+    "": ""
+  },
+  {
+    "Post code;naam": "6723;Habay-la-Vieille",
+    "": ""
+  },
+  {
+    "Post code;naam": "6724;Houdemont",
+    "": ""
+  },
+  {
+    "Post code;naam": "6730;Tintigny",
+    "": ""
+  },
+  {
+    "Post code;naam": "6740;Étalle",
+    "": ""
+  },
+  {
+    "Post code;naam": "6741;Vance",
+    "": ""
+  },
+  {
+    "Post code;naam": "6742;Chantemelle",
+    "": ""
+  },
+  {
+    "Post code;naam": "6743;Buzenol",
+    "": ""
+  },
+  {
+    "Post code;naam": "6747;Saint-Léger",
+    "": ""
+  },
+  {
+    "Post code;naam": "6750;Musson",
+    "": ""
+  },
+  {
+    "Post code;naam": "6760;Èthe",
+    "": ""
+  },
+  {
+    "Post code;naam": "6761;Latour",
+    "": ""
+  },
+  {
+    "Post code;naam": "6762;Saint-Mard",
+    "": ""
+  },
+  {
+    "Post code;naam": "6767;Harnoncourt",
+    "": ""
+  },
+  {
+    "Post code;naam": "6769;Meix-devant-Virton",
+    "": ""
+  },
+  {
+    "Post code;naam": "6780;Hondelange",
+    "": ""
+  },
+  {
+    "Post code;naam": "6781;Sélange",
+    "": ""
+  },
+  {
+    "Post code;naam": "6782;Habergy",
+    "": ""
+  },
+  {
+    "Post code;naam": "6790;Aubange",
+    "": ""
+  },
+  {
+    "Post code;naam": "6791;Athus",
+    "": ""
+  },
+  {
+    "Post code;naam": "6792;Halanzy",
+    "": ""
+  },
+  {
+    "Post code;naam": "6800;Bras",
+    "": ""
+  },
+  {
+    "Post code;naam": "6810;Izel",
+    "": ""
+  },
+  {
+    "Post code;naam": "6811;Suxy",
+    "": ""
+  },
+  {
+    "Post code;naam": "6812;Suxy",
+    "": ""
+  },
+  {
+    "Post code;naam": "6813;Termes",
+    "": ""
+  },
+  {
+    "Post code;naam": "6820;Muno",
+    "": ""
+  },
+  {
+    "Post code;naam": "6820;Florenville",
+    "": ""
+  },
+  {
+    "Post code;naam": "6821;Lacuisine",
+    "": ""
+  },
+  {
+    "Post code;naam": "6823;Villers-devant-Orval",
+    "": ""
+  },
+  {
+    "Post code;naam": "6824;Chassepierre",
+    "": ""
+  },
+  {
+    "Post code;naam": "6830;Rochehaut",
+    "": ""
+  },
+  {
+    "Post code;naam": "6830;Bouillon",
+    "": ""
+  },
+  {
+    "Post code;naam": "6831;Noirefontaine",
+    "": ""
+  },
+  {
+    "Post code;naam": "6832;Sensenruth",
+    "": ""
+  },
+  {
+    "Post code;naam": "6833;Ucimont",
+    "": ""
+  },
+  {
+    "Post code;naam": "6834;Bellevaux",
+    "": ""
+  },
+  {
+    "Post code;naam": "6836;Dohan",
+    "": ""
+  },
+  {
+    "Post code;naam": "6838;Corbion",
+    "": ""
+  },
+  {
+    "Post code;naam": "6840;Neufchâteau",
+    "": ""
+  },
+  {
+    "Post code;naam": "6850;Paliseul",
+    "": ""
+  },
+  {
+    "Post code;naam": "6851;Nollevaux",
+    "": ""
+  },
+  {
+    "Post code;naam": "6852;Opont",
+    "": ""
+  },
+  {
+    "Post code;naam": "6853;Framont",
+    "": ""
+  },
+  {
+    "Post code;naam": "6856;Fays-les-Veneurs",
+    "": ""
+  },
+  {
+    "Post code;naam": "6860;Léglise",
+    "": ""
+  },
+  {
+    "Post code;naam": "6870;Arville",
+    "": ""
+  },
+  {
+    "Post code;naam": "6880;Bertrix",
+    "": ""
+  },
+  {
+    "Post code;naam": "6887;Saint-Médard",
+    "": ""
+  },
+  {
+    "Post code;naam": "6890;Villance",
+    "": ""
+  },
+  {
+    "Post code;naam": "6900;Waha",
+    "": ""
+  },
+  {
+    "Post code;naam": "6920;Wellin",
+    "": ""
+  },
+  {
+    "Post code;naam": "6920;Sohier",
+    "": ""
+  },
+  {
+    "Post code;naam": "6921;Chanly",
+    "": ""
+  },
+  {
+    "Post code;naam": "6922;Halma",
+    "": ""
+  },
+  {
+    "Post code;naam": "6924;Lomprez",
+    "": ""
+  },
+  {
+    "Post code;naam": "6927;Tellin",
+    "": ""
+  },
+  {
+    "Post code;naam": "6929;Gembes",
+    "": ""
+  },
+  {
+    "Post code;naam": "6940;Grandhan",
+    "": ""
+  },
+  {
+    "Post code;naam": "6941;Bomal",
+    "": ""
+  },
+  {
+    "Post code;naam": "6950;Nassogne",
+    "": ""
+  },
+  {
+    "Post code;naam": "6951;Bande",
+    "": ""
+  },
+  {
+    "Post code;naam": "6952;Grune",
+    "": ""
+  },
+  {
+    "Post code;naam": "6953;Forrières",
+    "": ""
+  },
+  {
+    "Post code;naam": "6960;Grandmenil",
+    "": ""
+  },
+  {
+    "Post code;naam": "6970;Tenneville",
+    "": ""
+  },
+  {
+    "Post code;naam": "6971;Champlon",
+    "": ""
+  },
+  {
+    "Post code;naam": "6972;Erneuville",
+    "": ""
+  },
+  {
+    "Post code;naam": "6980;Beausaint",
+    "": ""
+  },
+  {
+    "Post code;naam": "6982;Samrée",
+    "": ""
+  },
+  {
+    "Post code;naam": "6983;Ortho",
+    "": ""
+  },
+  {
+    "Post code;naam": "6984;Hives",
+    "": ""
+  },
+  {
+    "Post code;naam": "6986;Halleux",
+    "": ""
+  },
+  {
+    "Post code;naam": "6987;Rendeux",
+    "": ""
+  },
+  {
+    "Post code;naam": "6990;Hotton",
+    "": ""
+  },
+  {
+    "Post code;naam": "6997;Érezée",
+    "": ""
+  },
+  {
+    "Post code;naam": "7000;Mons",
+    "": ""
+  },
+  {
+    "Post code;naam": "7010;Maisières",
+    "": ""
+  },
+  {
+    "Post code;naam": "7011;Ghlin",
+    "": ""
+  },
+  {
+    "Post code;naam": "7012;Jemappes",
+    "": ""
+  },
+  {
+    "Post code;naam": "7020;Maisières",
+    "": ""
+  },
+  {
+    "Post code;naam": "7021;Havré",
+    "": ""
+  },
+  {
+    "Post code;naam": "7022;Harmignies",
+    "": ""
+  },
+  {
+    "Post code;naam": "7024;Ciply",
+    "": ""
+  },
+  {
+    "Post code;naam": "7030;Saint-Symphorien",
+    "": ""
+  },
+  {
+    "Post code;naam": "7031;Villers-Saint-Ghislain",
+    "": ""
+  },
+  {
+    "Post code;naam": "7032;Spiennes",
+    "": ""
+  },
+  {
+    "Post code;naam": "7033;Cuesmes",
+    "": ""
+  },
+  {
+    "Post code;naam": "7034;Obourg",
+    "": ""
+  },
+  {
+    "Post code;naam": "7040;Quévy-le-Petit",
+    "": ""
+  },
+  {
+    "Post code;naam": "7041;Givry",
+    "": ""
+  },
+  {
+    "Post code;naam": "7050;Jurbise",
+    "": ""
+  },
+  {
+    "Post code;naam": "7060;Horrues",
+    "": ""
+  },
+  {
+    "Post code;naam": "7061;Thieusies",
+    "": ""
+  },
+  {
+    "Post code;naam": "7062;Naast",
+    "": ""
+  },
+  {
+    "Post code;naam": "7063;Neufvilles",
+    "": ""
+  },
+  {
+    "Post code;naam": "7070;Le Roeulx",
+    "": ""
+  },
+  {
+    "Post code;naam": "7080;Eugies",
+    "": ""
+  },
+  {
+    "Post code;naam": "7090;Braine-le-Comte",
+    "": ""
+  },
+  {
+    "Post code;naam": "7100;La Louvière",
+    "": ""
+  },
+  {
+    "Post code;naam": "7110;Strépy-Bracquegnies",
+    "": ""
+  },
+  {
+    "Post code;naam": "7120;Estinnes-au-Mont",
+    "": ""
+  },
+  {
+    "Post code;naam": "7130;Binche",
+    "": ""
+  },
+  {
+    "Post code;naam": "7130;Bray",
+    "": ""
+  },
+  {
+    "Post code;naam": "7131;Waudrez",
+    "": ""
+  },
+  {
+    "Post code;naam": "7133;Buvrinnes",
+    "": ""
+  },
+  {
+    "Post code;naam": "7134;Ressaix",
+    "": ""
+  },
+  {
+    "Post code;naam": "7140;Morlanwelz-Mariemont",
+    "": ""
+  },
+  {
+    "Post code;naam": "7141;Carnières",
+    "": ""
+  },
+  {
+    "Post code;naam": "7160;Chapelle-lez-Herlaimont",
+    "": ""
+  },
+  {
+    "Post code;naam": "7170;Manage",
+    "": ""
+  },
+  {
+    "Post code;naam": "7180;Seneffe",
+    "": ""
+  },
+  {
+    "Post code;naam": "7181;Feluy",
+    "": ""
+  },
+  {
+    "Post code;naam": "7190;Écaussinnes-d'Enghien",
+    "": ""
+  },
+  {
+    "Post code;naam": "7191;Écaussinnes-d'Enghien",
+    "": ""
+  },
+  {
+    "Post code;naam": "7300;Boussu",
+    "": ""
+  },
+  {
+    "Post code;naam": "7301;Hornu",
+    "": ""
+  },
+  {
+    "Post code;naam": "7320;Bernissart",
+    "": ""
+  },
+  {
+    "Post code;naam": "7321;Blaton",
+    "": ""
+  },
+  {
+    "Post code;naam": "7322;Ville-Pommeroeul",
+    "": ""
+  },
+  {
+    "Post code;naam": "7330;Saint-Ghislain",
+    "": ""
+  },
+  {
+    "Post code;naam": "7331;Baudour",
+    "": ""
+  },
+  {
+    "Post code;naam": "7332;Sirault",
+    "": ""
+  },
+  {
+    "Post code;naam": "7333;Tertre",
+    "": ""
+  },
+  {
+    "Post code;naam": "7334;Hautrage",
+    "": ""
+  },
+  {
+    "Post code;naam": "7340;Wasmes",
+    "": ""
+  },
+  {
+    "Post code;naam": "7350;Montrœul-sur-Haine",
+    "": ""
+  },
+  {
+    "Post code;naam": "7370;Dour",
+    "": ""
+  },
+  {
+    "Post code;naam": "7380;Baisieux",
+    "": ""
+  },
+  {
+    "Post code;naam": "7382;Audregnies",
+    "": ""
+  },
+  {
+    "Post code;naam": "7387;Autreppe",
+    "": ""
+  },
+  {
+    "Post code;naam": "7390;Quaregnon",
+    "": ""
+  },
+  {
+    "Post code;naam": "7500;Tournai",
+    "": ""
+  },
+  {
+    "Post code;naam": "7501;Orcq",
+    "": ""
+  },
+  {
+    "Post code;naam": "7502;Esplechin",
+    "": ""
+  },
+  {
+    "Post code;naam": "7503;Froyennes",
+    "": ""
+  },
+  {
+    "Post code;naam": "7504;Froidmont",
+    "": ""
+  },
+  {
+    "Post code;naam": "7506;Willemeau",
+    "": ""
+  },
+  {
+    "Post code;naam": "7510;Orcq",
+    "": ""
+  },
+  {
+    "Post code;naam": "7511;Orcq",
+    "": ""
+  },
+  {
+    "Post code;naam": "7512;Kain",
+    "": ""
+  },
+  {
+    "Post code;naam": "7513;Kain",
+    "": ""
+  },
+  {
+    "Post code;naam": "7520;Templeuve",
+    "": ""
+  },
+  {
+    "Post code;naam": "7521;Chercq",
+    "": ""
+  },
+  {
+    "Post code;naam": "7522;Hertain",
+    "": ""
+  },
+  {
+    "Post code;naam": "7530;Gaurain-Ramecroix",
+    "": ""
+  },
+  {
+    "Post code;naam": "7531;Havinnes",
+    "": ""
+  },
+  {
+    "Post code;naam": "7532;Beclers",
+    "": ""
+  },
+  {
+    "Post code;naam": "7533;Thimougies",
+    "": ""
+  },
+  {
+    "Post code;naam": "7534;Maulde",
+    "": ""
+  },
+  {
+    "Post code;naam": "7536;Vaulx",
+    "": ""
+  },
+  {
+    "Post code;naam": "7538;Vezon",
+    "": ""
+  },
+  {
+    "Post code;naam": "7540;Mourcourt",
+    "": ""
+  },
+  {
+    "Post code;naam": "7542;Mont-Saint-Aubert",
+    "": ""
+  },
+  {
+    "Post code;naam": "7543;Mourcourt",
+    "": ""
+  },
+  {
+    "Post code;naam": "7548;Warchin",
+    "": ""
+  },
+  {
+    "Post code;naam": "7600;Péruwelz",
+    "": ""
+  },
+  {
+    "Post code;naam": "7601;Roucourt",
+    "": ""
+  },
+  {
+    "Post code;naam": "7602;Bury",
+    "": ""
+  },
+  {
+    "Post code;naam": "7603;Bon-Secours",
+    "": ""
+  },
+  {
+    "Post code;naam": "7604;Wasmes-Audemez-Briffoeil",
+    "": ""
+  },
+  {
+    "Post code;naam": "7608;Wiers",
+    "": ""
+  },
+  {
+    "Post code;naam": "7610;Rumes",
+    "": ""
+  },
+  {
+    "Post code;naam": "7611;La Glanerie",
+    "": ""
+  },
+  {
+    "Post code;naam": "7618;Taintignies",
+    "": ""
+  },
+  {
+    "Post code;naam": "7620;Jollain-Merlin",
+    "": ""
+  },
+  {
+    "Post code;naam": "7621;Lesdain",
+    "": ""
+  },
+  {
+    "Post code;naam": "7622;Laplaigne",
+    "": ""
+  },
+  {
+    "Post code;naam": "7623;Rongy",
+    "": ""
+  },
+  {
+    "Post code;naam": "7624;Howardries",
+    "": ""
+  },
+  {
+    "Post code;naam": "7640;Maubray",
+    "": ""
+  },
+  {
+    "Post code;naam": "7641;Bruyelle",
+    "": ""
+  },
+  {
+    "Post code;naam": "7642;Calonne",
+    "": ""
+  },
+  {
+    "Post code;naam": "7643;Fontenoy",
+    "": ""
+  },
+  {
+    "Post code;naam": "7700;Mouscron",
+    "": ""
+  },
+  {
+    "Post code;naam": "7711;Dottignies",
+    "": ""
+  },
+  {
+    "Post code;naam": "7712;Herseaux",
+    "": ""
+  },
+  {
+    "Post code;naam": "7730;Estaimbourg",
+    "": ""
+  },
+  {
+    "Post code;naam": "7740;Pecq",
+    "": ""
+  },
+  {
+    "Post code;naam": "7742;Hérinnes",
+    "": ""
+  },
+  {
+    "Post code;naam": "7743;Obigies",
+    "": ""
+  },
+  {
+    "Post code;naam": "7750;Anseroeul",
+    "": ""
+  },
+  {
+    "Post code;naam": "7760;Celles",
+    "": ""
+  },
+  {
+    "Post code;naam": "7780;Comines",
+    "": ""
+  },
+  {
+    "Post code;naam": "7781;Houthem",
+    "": ""
+  },
+  {
+    "Post code;naam": "7782;Ploegsteert",
+    "": ""
+  },
+  {
+    "Post code;naam": "7783;Ploegsteert",
+    "": ""
+  },
+  {
+    "Post code;naam": "7784;Warneton",
+    "": ""
+  },
+  {
+    "Post code;naam": "7800;Ath",
+    "": ""
+  },
+  {
+    "Post code;naam": "7801;Irchonwelz",
+    "": ""
+  },
+  {
+    "Post code;naam": "7802;Ormeignies",
+    "": ""
+  },
+  {
+    "Post code;naam": "7803;Ath",
+    "": ""
+  },
+  {
+    "Post code;naam": "7803;Bouvignies",
+    "": ""
+  },
+  {
+    "Post code;naam": "7804;Ostiches",
+    "": ""
+  },
+  {
+    "Post code;naam": "7810;Maffle",
+    "": ""
+  },
+  {
+    "Post code;naam": "7811;Arbre",
+    "": ""
+  },
+  {
+    "Post code;naam": "7812;Villers-Saint-Amand",
+    "": ""
+  },
+  {
+    "Post code;naam": "7822;Meslin-l'Évêque",
+    "": ""
+  },
+  {
+    "Post code;naam": "7823;Gibecq",
+    "": ""
+  },
+  {
+    "Post code;naam": "7830;Silly",
+    "": ""
+  },
+  {
+    "Post code;naam": "7850;Hoves",
+    "": ""
+  },
+  {
+    "Post code;naam": "7860;Lessines",
+    "": ""
+  },
+  {
+    "Post code;naam": "7861;Wannebecq",
+    "": ""
+  },
+  {
+    "Post code;naam": "7862;Ogy",
+    "": ""
+  },
+  {
+    "Post code;naam": "7863;Ghoy",
+    "": ""
+  },
+  {
+    "Post code;naam": "7864;Deux-Acren",
+    "": ""
+  },
+  {
+    "Post code;naam": "7866;Ollignies",
+    "": ""
+  },
+  {
+    "Post code;naam": "7870;Montignies-lez-Lens",
+    "": ""
+  },
+  {
+    "Post code;naam": "7880;Flobecq",
+    "": ""
+  },
+  {
+    "Post code;naam": "7890;Wodecq",
+    "": ""
+  },
+  {
+    "Post code;naam": "7900;Leuze",
+    "": ""
+  },
+  {
+    "Post code;naam": "7901;Thieulain",
+    "": ""
+  },
+  {
+    "Post code;naam": "7903;Chapelle-à-Oie",
+    "": ""
+  },
+  {
+    "Post code;naam": "7904;Leuze",
+    "": ""
+  },
+  {
+    "Post code;naam": "7906;Gallaix",
+    "": ""
+  },
+  {
+    "Post code;naam": "7910;Cordes",
+    "": ""
+  },
+  {
+    "Post code;naam": "7911;Frasnes-lez-Buissenal",
+    "": ""
+  },
+  {
+    "Post code;naam": "7912;Saint-Sauveur",
+    "": ""
+  },
+  {
+    "Post code;naam": "7940;Brugelette",
+    "": ""
+  },
+  {
+    "Post code;naam": "7941;Attre",
+    "": ""
+  },
+  {
+    "Post code;naam": "7942;Mévergnies-lez-Lens",
+    "": ""
+  },
+  {
+    "Post code;naam": "7943;Gages",
+    "": ""
+  },
+  {
+    "Post code;naam": "7950;Chièvres",
+    "": ""
+  },
+  {
+    "Post code;naam": "7951;Tongre-Notre-Dame",
+    "": ""
+  },
+  {
+    "Post code;naam": "7970;Belœil",
+    "": ""
+  },
+  {
+    "Post code;naam": "7971;Wadelincourt",
+    "": ""
+  },
+  {
+    "Post code;naam": "7972;Ellignies-Sainte-Anne",
+    "": ""
+  },
+  {
+    "Post code;naam": "7973;Stambruges",
+    "": ""
+  },
+  {
+    "Post code;naam": "8000;Brugge",
+    "": ""
+  },
+  {
+    "Post code;naam": "8020;Oostkamp",
+    "": ""
+  },
+  {
+    "Post code;naam": "8200;Brugge",
+    "": ""
+  },
+  {
+    "Post code;naam": "8210;Zedelgem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8211;Zedelgem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8300;Knokke-Heist",
+    "": ""
+  },
+  {
+    "Post code;naam": "8301;Knokke-Heist",
+    "": ""
+  },
+  {
+    "Post code;naam": "8310;Brugge",
+    "": ""
+  },
+  {
+    "Post code;naam": "8340;Damme",
+    "": ""
+  },
+  {
+    "Post code;naam": "8370;Blankenberge",
+    "": ""
+  },
+  {
+    "Post code;naam": "8377;Zuienkerke",
+    "": ""
+  },
+  {
+    "Post code;naam": "8380;Brugge",
+    "": ""
+  },
+  {
+    "Post code;naam": "8400;Oostende",
+    "": ""
+  },
+  {
+    "Post code;naam": "8420;De Haan",
+    "": ""
+  },
+  {
+    "Post code;naam": "8420;De Haan",
+    "": ""
+  },
+  {
+    "Post code;naam": "8421;De Haan",
+    "": ""
+  },
+  {
+    "Post code;naam": "8430;Middelkerke",
+    "": ""
+  },
+  {
+    "Post code;naam": "8431;Middelkerke",
+    "": ""
+  },
+  {
+    "Post code;naam": "8432;Middelkerke",
+    "": ""
+  },
+  {
+    "Post code;naam": "8433;Middelkerke",
+    "": ""
+  },
+  {
+    "Post code;naam": "8434;Middelkerke",
+    "": ""
+  },
+  {
+    "Post code;naam": "8450;Bredene",
+    "": ""
+  },
+  {
+    "Post code;naam": "8460;Oudenburg",
+    "": ""
+  },
+  {
+    "Post code;naam": "8470;Gistel",
+    "": ""
+  },
+  {
+    "Post code;naam": "8480;Ichtegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8490;Jabbeke",
+    "": ""
+  },
+  {
+    "Post code;naam": "8500;Kortrijk",
+    "": ""
+  },
+  {
+    "Post code;naam": "8501;Kortrijk",
+    "": ""
+  },
+  {
+    "Post code;naam": "8510;Kortrijk",
+    "": ""
+  },
+  {
+    "Post code;naam": "8511;Kortrijk",
+    "": ""
+  },
+  {
+    "Post code;naam": "8520;Kuurne",
+    "": ""
+  },
+  {
+    "Post code;naam": "8530;Harelbeke",
+    "": ""
+  },
+  {
+    "Post code;naam": "8531;Harelbeke",
+    "": ""
+  },
+  {
+    "Post code;naam": "8540;Deerlijk",
+    "": ""
+  },
+  {
+    "Post code;naam": "8550;Zwevegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8551;Zwevegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8552;Zwevegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8553;Zwevegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8554;Zwevegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8560;Wevelgem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8570;Anzegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8572;Anzegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8573;Anzegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8580;Avelgem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8581;Avelgem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8582;Avelgem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8583;Avelgem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8587;Spiere-Helkijn",
+    "": ""
+  },
+  {
+    "Post code;naam": "8600;Diksmuide",
+    "": ""
+  },
+  {
+    "Post code;naam": "8610;Kortemark",
+    "": ""
+  },
+  {
+    "Post code;naam": "8620;Nieuwpoort",
+    "": ""
+  },
+  {
+    "Post code;naam": "8630;Veurne",
+    "": ""
+  },
+  {
+    "Post code;naam": "8640;Vleteren",
+    "": ""
+  },
+  {
+    "Post code;naam": "8647;Lo-Reninge",
+    "": ""
+  },
+  {
+    "Post code;naam": "8650;Houthulst",
+    "": ""
+  },
+  {
+    "Post code;naam": "8660;De Panne",
+    "": ""
+  },
+  {
+    "Post code;naam": "8670;Koksijde",
+    "": ""
+  },
+  {
+    "Post code;naam": "8680;Koekelare",
+    "": ""
+  },
+  {
+    "Post code;naam": "8690;Alveringem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8691;Alveringem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8700;Tielt",
+    "": ""
+  },
+  {
+    "Post code;naam": "8710;Wielsbeke",
+    "": ""
+  },
+  {
+    "Post code;naam": "8720;Dentergem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8730;Beernem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8740;Pittem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8750;Wingene",
+    "": ""
+  },
+  {
+    "Post code;naam": "8755;Ruiselede",
+    "": ""
+  },
+  {
+    "Post code;naam": "8760;Meulebeke",
+    "": ""
+  },
+  {
+    "Post code;naam": "8770;Ingelmunster",
+    "": ""
+  },
+  {
+    "Post code;naam": "8780;Oostrozebeke",
+    "": ""
+  },
+  {
+    "Post code;naam": "8790;Waregem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8791;Waregem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8792;Waregem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8793;Waregem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8800;Roeselare",
+    "": ""
+  },
+  {
+    "Post code;naam": "8810;Lichtervelde",
+    "": ""
+  },
+  {
+    "Post code;naam": "8820;Torhout",
+    "": ""
+  },
+  {
+    "Post code;naam": "8830;Hooglede",
+    "": ""
+  },
+  {
+    "Post code;naam": "8840;Staden",
+    "": ""
+  },
+  {
+    "Post code;naam": "8850;Ardooie",
+    "": ""
+  },
+  {
+    "Post code;naam": "8851;Ardooie",
+    "": ""
+  },
+  {
+    "Post code;naam": "8860;Lendelede",
+    "": ""
+  },
+  {
+    "Post code;naam": "8870;Izegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8880;Ledegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "8890;Moorslede",
+    "": ""
+  },
+  {
+    "Post code;naam": "8900;Ieper",
+    "": ""
+  },
+  {
+    "Post code;naam": "8900;Ieper",
+    "": ""
+  },
+  {
+    "Post code;naam": "8902;Ieper",
+    "": ""
+  },
+  {
+    "Post code;naam": "8904;Ieper",
+    "": ""
+  },
+  {
+    "Post code;naam": "8906;Ieper",
+    "": ""
+  },
+  {
+    "Post code;naam": "8908;Ieper",
+    "": ""
+  },
+  {
+    "Post code;naam": "8920;Langemark-Poelkapelle",
+    "": ""
+  },
+  {
+    "Post code;naam": "8930;Menen",
+    "": ""
+  },
+  {
+    "Post code;naam": "8940;Wervik",
+    "": ""
+  },
+  {
+    "Post code;naam": "8950;Heuvelland",
+    "": ""
+  },
+  {
+    "Post code;naam": "8951;Heuvelland",
+    "": ""
+  },
+  {
+    "Post code;naam": "8952;Heuvelland",
+    "": ""
+  },
+  {
+    "Post code;naam": "8953;Heuvelland",
+    "": ""
+  },
+  {
+    "Post code;naam": "8954;Heuvelland",
+    "": ""
+  },
+  {
+    "Post code;naam": "8956;Heuvelland",
+    "": ""
+  },
+  {
+    "Post code;naam": "8957;Mesen",
+    "": ""
+  },
+  {
+    "Post code;naam": "8958;Heuvelland",
+    "": ""
+  },
+  {
+    "Post code;naam": "8970;Poperinge",
+    "": ""
+  },
+  {
+    "Post code;naam": "8972;Poperinge",
+    "": ""
+  },
+  {
+    "Post code;naam": "8978;Poperinge",
+    "": ""
+  },
+  {
+    "Post code;naam": "8980;Zonnebeke",
+    "": ""
+  },
+  {
+    "Post code;naam": "9;Scherpenheuvel-Zichem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9000;Gent",
+    "": ""
+  },
+  {
+    "Post code;naam": "9030;Mariakerke",
+    "": ""
+  },
+  {
+    "Post code;naam": "9031;Drongen",
+    "": ""
+  },
+  {
+    "Post code;naam": "9032;Wondelgem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9040;Sint-Amandsberg",
+    "": ""
+  },
+  {
+    "Post code;naam": "9041;Oostakker",
+    "": ""
+  },
+  {
+    "Post code;naam": "9042;Mendonk",
+    "": ""
+  },
+  {
+    "Post code;naam": "9050;Gentbrugge",
+    "": ""
+  },
+  {
+    "Post code;naam": "9051;Sint-Denijs-Westrem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9052;Zwijnaarde",
+    "": ""
+  },
+  {
+    "Post code;naam": "9060;Zelzate",
+    "": ""
+  },
+  {
+    "Post code;naam": "9070;Destelbergen",
+    "": ""
+  },
+  {
+    "Post code;naam": "9075;Gent",
+    "": ""
+  },
+  {
+    "Post code;naam": "9080;Lochristi",
+    "": ""
+  },
+  {
+    "Post code;naam": "9090;Melle",
+    "": ""
+  },
+  {
+    "Post code;naam": "9099;Gent",
+    "": ""
+  },
+  {
+    "Post code;naam": "9100;Sint-Niklaas",
+    "": ""
+  },
+  {
+    "Post code;naam": "9111;Sint-Niklaas",
+    "": ""
+  },
+  {
+    "Post code;naam": "9112;Sint-Niklaas",
+    "": ""
+  },
+  {
+    "Post code;naam": "9120;Beveren",
+    "": ""
+  },
+  {
+    "Post code;naam": "9130;Beveren",
+    "": ""
+  },
+  {
+    "Post code;naam": "9140;Temse",
+    "": ""
+  },
+  {
+    "Post code;naam": "9150;Kruibeke",
+    "": ""
+  },
+  {
+    "Post code;naam": "9160;Lokeren",
+    "": ""
+  },
+  {
+    "Post code;naam": "9170;Sint-Gillis-Waas",
+    "": ""
+  },
+  {
+    "Post code;naam": "9180;Moerbeke",
+    "": ""
+  },
+  {
+    "Post code;naam": "9185;Wachtebeke",
+    "": ""
+  },
+  {
+    "Post code;naam": "9190;Stekene",
+    "": ""
+  },
+  {
+    "Post code;naam": "9200;Dendermonde",
+    "": ""
+  },
+  {
+    "Post code;naam": "9220;Hamme",
+    "": ""
+  },
+  {
+    "Post code;naam": "9230;Wetteren",
+    "": ""
+  },
+  {
+    "Post code;naam": "9240;Zele",
+    "": ""
+  },
+  {
+    "Post code;naam": "9250;Waasmunster",
+    "": ""
+  },
+  {
+    "Post code;naam": "9255;Buggenhout",
+    "": ""
+  },
+  {
+    "Post code;naam": "9260;Wichelen",
+    "": ""
+  },
+  {
+    "Post code;naam": "9270;Laarne",
+    "": ""
+  },
+  {
+    "Post code;naam": "9280;Lebbeke",
+    "": ""
+  },
+  {
+    "Post code;naam": "9290;Berlare",
+    "": ""
+  },
+  {
+    "Post code;naam": "9300;Aalst",
+    "": ""
+  },
+  {
+    "Post code;naam": "9308;Aalst",
+    "": ""
+  },
+  {
+    "Post code;naam": "9310;Aalst",
+    "": ""
+  },
+  {
+    "Post code;naam": "9320;Aalst",
+    "": ""
+  },
+  {
+    "Post code;naam": "9340;Lede",
+    "": ""
+  },
+  {
+    "Post code;naam": "9400;Ninove",
+    "": ""
+  },
+  {
+    "Post code;naam": "9400;Ninove",
+    "": ""
+  },
+  {
+    "Post code;naam": "9400;Ninove",
+    "": ""
+  },
+  {
+    "Post code;naam": "9401;Ninove",
+    "": ""
+  },
+  {
+    "Post code;naam": "9402;Ninove",
+    "": ""
+  },
+  {
+    "Post code;naam": "9403;Ninove",
+    "": ""
+  },
+  {
+    "Post code;naam": "9404;Ninove",
+    "": ""
+  },
+  {
+    "Post code;naam": "9406;Ninove",
+    "": ""
+  },
+  {
+    "Post code;naam": "9420;Erpe-Mere",
+    "": ""
+  },
+  {
+    "Post code;naam": "9450;Haaltert",
+    "": ""
+  },
+  {
+    "Post code;naam": "9451;Haaltert",
+    "": ""
+  },
+  {
+    "Post code;naam": "9470;Denderleeuw",
+    "": ""
+  },
+  {
+    "Post code;naam": "9472;Denderleeuw",
+    "": ""
+  },
+  {
+    "Post code;naam": "9473;Denderleeuw",
+    "": ""
+  },
+  {
+    "Post code;naam": "9500;Geraardsbergen",
+    "": ""
+  },
+  {
+    "Post code;naam": "9500;Geraardsbergen",
+    "": ""
+  },
+  {
+    "Post code;naam": "9506;Geraardsbergen",
+    "": ""
+  },
+  {
+    "Post code;naam": "9520;Sint-Lievens-Houtem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9520;Sint-Lievens-Houtem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9521;Sint-Lievens-Houtem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9550;Herzele",
+    "": ""
+  },
+  {
+    "Post code;naam": "9551;Herzele",
+    "": ""
+  },
+  {
+    "Post code;naam": "9552;Herzele",
+    "": ""
+  },
+  {
+    "Post code;naam": "9570;Lierde",
+    "": ""
+  },
+  {
+    "Post code;naam": "9570;Lierde",
+    "": ""
+  },
+  {
+    "Post code;naam": "9571;Lierde",
+    "": ""
+  },
+  {
+    "Post code;naam": "9572;Lierde",
+    "": ""
+  },
+  {
+    "Post code;naam": "9600;Ronse",
+    "": ""
+  },
+  {
+    "Post code;naam": "9620;Zottegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9630;Zwalm",
+    "": ""
+  },
+  {
+    "Post code;naam": "9636;Zwalm",
+    "": ""
+  },
+  {
+    "Post code;naam": "9660;Brakel",
+    "": ""
+  },
+  {
+    "Post code;naam": "9661;Brakel",
+    "": ""
+  },
+  {
+    "Post code;naam": "9667;Horebeke",
+    "": ""
+  },
+  {
+    "Post code;naam": "9680;Maarkedal",
+    "": ""
+  },
+  {
+    "Post code;naam": "9681;Maarkedal",
+    "": ""
+  },
+  {
+    "Post code;naam": "9688;Maarkedal",
+    "": ""
+  },
+  {
+    "Post code;naam": "9690;Kluisbergen",
+    "": ""
+  },
+  {
+    "Post code;naam": "9700;Oudenaarde",
+    "": ""
+  },
+  {
+    "Post code;naam": "9750;Kruisem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9770;Kruisem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9771;Kruisem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9772;Kruisem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9790;Wortegem-Petegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9800;Deinze",
+    "": ""
+  },
+  {
+    "Post code;naam": "9810;Nazareth",
+    "": ""
+  },
+  {
+    "Post code;naam": "9820;Merelbeke",
+    "": ""
+  },
+  {
+    "Post code;naam": "9830;Sint-Martens-Latem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9831;Sint-Martens-Latem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9840;De Pinte",
+    "": ""
+  },
+  {
+    "Post code;naam": "9850;Deinze",
+    "": ""
+  },
+  {
+    "Post code;naam": "9860;Oosterzele",
+    "": ""
+  },
+  {
+    "Post code;naam": "9870;Zulte",
+    "": ""
+  },
+  {
+    "Post code;naam": "9880;Aalter",
+    "": ""
+  },
+  {
+    "Post code;naam": "9881;Aalter",
+    "": ""
+  },
+  {
+    "Post code;naam": "9890;Gavere",
+    "": ""
+  },
+  {
+    "Post code;naam": "9900;Eeklo",
+    "": ""
+  },
+  {
+    "Post code;naam": "9910;Aalter",
+    "": ""
+  },
+  {
+    "Post code;naam": "9920;Lievegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9921;Lievegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9930;Lievegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9931;Lievegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9932;Lievegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9940;Evergem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9950;Lievegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9960;Assenede",
+    "": ""
+  },
+  {
+    "Post code;naam": "9961;Assenede",
+    "": ""
+  },
+  {
+    "Post code;naam": "9968;Assenede",
+    "": ""
+  },
+  {
+    "Post code;naam": "9970;Kaprijke",
+    "": ""
+  },
+  {
+    "Post code;naam": "9971;Kaprijke",
+    "": ""
+  },
+  {
+    "Post code;naam": "9980;Sint-Laureins",
+    "": ""
+  },
+  {
+    "Post code;naam": "9981;Sint-Laureins",
+    "": ""
+  },
+  {
+    "Post code;naam": "9982;Sint-Laureins",
+    "": ""
+  },
+  {
+    "Post code;naam": "9988;Sint-Laureins",
+    "": ""
+  },
+  {
+    "Post code;naam": "9990;Maldegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9991;Maldegem",
+    "": ""
+  },
+  {
+    "Post code;naam": "9992;Maldegem",
+    "": ""
+  }
+]
